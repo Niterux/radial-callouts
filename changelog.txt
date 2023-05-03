@@ -1,0 +1,2 @@
+v1 Initial release
+v2 Made configuration better and more flexible, no more rebinding while the menu is open everything works through aliases now
