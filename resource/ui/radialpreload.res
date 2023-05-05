@@ -5,6 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"	"radialpreload"
 		"xpos"	"99999"
+		"wide"	"0"
 		"visible"	"1"
 		"radialz"
 		{
