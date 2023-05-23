@@ -1,0 +1,16 @@
+There are parts of radial callouts that you can "re-alias" to make your preexisting scripts compatible
+
+these are run when the radial menu is open and closed:
+openradialmenu | default: empty string
+closeradialmenu | default: empty string
+
+These are what controls what your binds are set to when the radial menu isn't open:
+closed1 | default: "slot1" (in config)
+closed2 | default: "slot2" (in config)
+closed3 | default: "slot3" (in config)
+
+These are what controls the crosshair settings that are set when you close the radial menu
+defaultred | default: "cl_crosshair_red 200" (in config)
+defaultgreen | default: "cl_crosshair_green 200" (in config)
+defaultblue | default: "cl_crosshair_blue 200" (in config)
+defaultcrosshair | default: "exec radialconfig/default_crosshair"
