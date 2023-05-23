@@ -1,2 +1,3 @@
 v1 Initial release
 v2 Made configuration better and more flexible, no more rebinding while the menu is open everything works through aliases now
+v3 Add notes for developers, modernize textures, add support for hud crosshairs and an invisible radial popup
